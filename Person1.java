@@ -1,7 +1,8 @@
 
 /*Create a class called person with a member variable name.save it in a file called person.java
  * Create a class called Employee that will inherit the person class .the other data members of the employee 
- * class are annual salary(Double),the yar the employee started 
+ * class are annual salary(Double),the yar the employee started to work ,and the national insurance number which is string.
+ * save this into the file employee.java.your class hould have the necessary constructor and getter /setter method. 
  */
  package oopsconcept;
  
